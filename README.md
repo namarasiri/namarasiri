@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Navin Amarasiri 👋</h1>
  
 <p align="center">
-  <em>Senior Java Developer · Adelaide, Australia 🇦🇺</em><br/>
-  <em>Building reliable, scalable backend systems at <strong>TNS</strong> — one well-crafted commit at a time.</em>
+  <em>Senior Java Developer · Adelaide, Australia 🇦🇺</em><br/> 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/navinamarasiri/" target="_blank">
@@ -14,9 +13,7 @@
 
 ## 🧑‍💻 About Me
  
-I'm a software developer with a background spanning fintech integration, enterprise platforms, and cloud-native services. Currently at **TNS** working on the **Platform team**, where I focus on backend Java development, MFA integrations, and shared platform services.
- 
-Before TNS, I spent several years at **Virtusa** — growing from Software Engineer to Senior Software Engineer, leading offshore integration teams, planning product modules, and conducting code reviews.
+I'm a software developer with a background spanning fintech integration, enterprise platforms, and cloud-native services.
  
 I care a lot about **code quality, system design, and the craft of software development**. I enjoy breaking complex problems down into clean, maintainable solutions.
 
